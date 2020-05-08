@@ -60,10 +60,6 @@ Add additional notes about how to deploy this on a live system
 
 
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Authors
 
 * **Prasuna Mitikiri** - *prasuna.mitikiri@ou.edu* 
@@ -76,6 +72,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Inspired by kaggle competition 
+
