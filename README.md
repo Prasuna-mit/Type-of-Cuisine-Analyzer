@@ -42,9 +42,9 @@ Add additional notes about how to deploy this on a live system
 
 
 ## References
-1. https://www.uplevel.work/blog/feature-predicting-a-cuisine-based-only-on-its-ingredients-using-machine-learning
+1. https://www.uplevel.work/blog
 
-2. 
+2. https://docs.scipy.org/
 
 
 
