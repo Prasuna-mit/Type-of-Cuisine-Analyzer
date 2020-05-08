@@ -8,25 +8,11 @@ For this project, the dataset by yummly.com has been taken. This dataset is json
 
 ### Prerequisites
 
-It is a simple yet interesting project. I implemeted this tool on python in jupyter platform. You can use other platforms like pyCharm or can work on terminal aswell. But make sure to install python latest version.
+Having very good understanding of python and hands on experience working with python packages and libraries help a lot.
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+It is a simple yet interesting project. I implemeted this tool on python in jupyter platform. You can use other platforms like pyCharm or can work on terminal aswell. But make sure to install python latest version.
 
 ## Running the tests
 
