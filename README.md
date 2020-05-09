@@ -14,9 +14,9 @@ Having a good understanding of python and hands on experience on working with py
 
 It is a simple yet interesting project. I implemeted this tool on python in jupyter platform. You can use other platforms like pyCharm or can work on terminal aswell. But make sure to install python latest version.
 
-### Explanation
+## Explanation
 
-## Data
+### Data
 
 You can download the dataset from the below website
 
@@ -48,7 +48,6 @@ The most important part for text mining is data curation. This is the fundamenta
 
 Selection of text feature item is a basic and important matter for text mining and information retrieval. Some applications deal with huge amount of text to perform classification or translation and involves a lot of work on the back end. Transforming text into something an algorithm can digest is a complicated process. For feature extraction, I have used TF-IDF (Term Frequenct and Inverse Document Frequency) technique. Which is quite popular technique escpecially works effectively when dealing with large scale of data and in fact, this is one of the reasons behind choosing this technique to get features. 
 
-10 pts: What classifiers/clustering methods did you choose and why?
 Modeling: 
 
 The k-nearest neighbors’ technique is based upon the principle that the samples which are similar to each other will lie in close proximity. Given a sample, Knearest neighbor classifier will search the pattern space for k-objects that are closest to it and will delegate the class by identifying the class label which is frequently used. The main advantage of using this algorithm is it is robust to noisy data and works well with the data having many labels. For our large set of data, this method opt perfectly. Apart from that, we require similarity value, and it is one of the advantages of kNN. Therefore, I stick with this algorithm. 
@@ -70,9 +69,6 @@ To test the predicted model, I have taken a list of ingredients and stored into 
 ## Bugs and Assumptions
 
 1. Input must be passed as a variable in the code. 
-
-2. 
-
 
 ## References
 1. https://www.uplevel.work/blog
